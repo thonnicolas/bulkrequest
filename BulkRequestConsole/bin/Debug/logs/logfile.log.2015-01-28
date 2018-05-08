@@ -1,0 +1,65 @@
+2015-01-28 15:50:18,084 [Thread : 82356] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><28/01/2015 15:50:17 932>
+2015-01-28 15:50:18,132 [Thread : 82356] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><28/01/2015 15:50:17 965>
+2015-01-28 15:50:18,657 [Thread : 82356] [Line : 0] ERROR : ITMDW-Log - <StartupConnectionWithoutFailover><System.TypeInitializationException: The type initializer for 'Oracle.DataAccess.Client.OracleConnection' threw an exception. ---> Oracle.DataAccess.Client.OracleException: The provider is not compatible with the version of Oracle client
+   at Oracle.DataAccess.Client.OracleInit.Initialize()
+   at Oracle.DataAccess.Client.OracleConnection..cctor()
+   --- End of inner exception stack trace ---
+   at Oracle.DataAccess.Client.OracleConnection..ctor(String connectionString)
+   at Asiacell.ITADLibraries.LibDatabase.DBConnection.StartupConnectionWithoutFailover()><28/01/2015 15:50:18 633>
+2015-01-28 15:50:18,659 [Thread : 82356] [Line : 0] ERROR : ITMDW-Log - <ApplicationInitialization><Bulk Execution service could not start due problem of database connectivity><28/01/2015 15:50:18 634>
+2015-01-28 15:50:30,977 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><28/01/2015 15:50:30 854>
+2015-01-28 15:50:31,000 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><28/01/2015 15:50:30 856>
+2015-01-28 15:50:31,360 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Connect to database is successful...><28/01/2015 15:50:31 259>
+2015-01-28 15:50:31,361 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Name : agwprod><28/01/2015 15:50:31 259>
+2015-01-28 15:50:31,361 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Version : 11.2.0.4.0><28/01/2015 15:50:31 259>
+2015-01-28 15:50:31,361 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Datababase UserID : ITMDW_TST><28/01/2015 15:50:31 259>
+2015-01-28 15:50:31,685 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:31 586>
+2015-01-28 15:50:31,685 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:31 586>
+2015-01-28 15:50:31,685 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:31 586>
+2015-01-28 15:50:31,686 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:31 588>
+2015-01-28 15:50:31,686 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:31 589>
+2015-01-28 15:50:32,298 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 298>
+2015-01-28 15:50:32,299 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 298>
+2015-01-28 15:50:32,300 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 298>
+2015-01-28 15:50:32,300 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 299>
+2015-01-28 15:50:32,301 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 299>
+2015-01-28 15:50:32,402 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 386>
+2015-01-28 15:50:32,405 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 387>
+2015-01-28 15:50:32,408 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 402>
+2015-01-28 15:50:32,408 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 406>
+2015-01-28 15:50:32,409 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 408>
+2015-01-28 15:50:32,510 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 487>
+2015-01-28 15:50:32,510 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 489>
+2015-01-28 15:50:32,511 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 501>
+2015-01-28 15:50:32,512 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 504>
+2015-01-28 15:50:32,512 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 510>
+2015-01-28 15:50:32,614 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 588>
+2015-01-28 15:50:32,614 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 589>
+2015-01-28 15:50:32,615 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 603>
+2015-01-28 15:50:32,616 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 606>
+2015-01-28 15:50:32,616 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 612>
+2015-01-28 15:50:32,717 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 689>
+2015-01-28 15:50:32,717 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 691>
+2015-01-28 15:50:32,718 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 705>
+2015-01-28 15:50:32,719 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 708>
+2015-01-28 15:50:32,719 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 714>
+2015-01-28 15:50:32,820 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 789>
+2015-01-28 15:50:32,820 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 793>
+2015-01-28 15:50:32,821 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 807>
+2015-01-28 15:50:32,821 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 810>
+2015-01-28 15:50:32,822 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 816>
+2015-01-28 15:50:32,923 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 891>
+2015-01-28 15:50:32,923 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 895>
+2015-01-28 15:50:32,924 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 909>
+2015-01-28 15:50:33,026 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:32 994>
+2015-01-28 15:50:33,026 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 001>
+2015-01-28 15:50:33,026 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 015>
+2015-01-28 15:50:33,128 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 094>
+2015-01-28 15:50:33,128 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 100>
+2015-01-28 15:50:33,129 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 113>
+2015-01-28 15:50:33,230 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 196>
+2015-01-28 15:50:33,230 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 202>
+2015-01-28 15:50:33,231 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 216>
+2015-01-28 15:50:33,332 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 299>
+2015-01-28 15:50:33,332 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 304>
+2015-01-28 15:50:33,333 [Thread : 74772] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><28/01/2015 15:50:33 317>

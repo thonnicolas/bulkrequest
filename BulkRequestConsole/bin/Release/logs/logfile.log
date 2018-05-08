@@ -1,0 +1,747 @@
+2015-01-25 09:47:05,526 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><25/01/2015 09:47:05 409>
+2015-01-25 09:47:05,542 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><25/01/2015 09:47:05 410>
+2015-01-25 09:47:05,943 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Connect to database is successful...><25/01/2015 09:47:05 881>
+2015-01-25 09:47:05,943 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Name : agwprod><25/01/2015 09:47:05 881>
+2015-01-25 09:47:05,944 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Version : 11.2.0.4.0><25/01/2015 09:47:05 881>
+2015-01-25 09:47:05,944 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Datababase UserID : ITMDW><25/01/2015 09:47:05 881>
+2015-01-25 09:47:06,045 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:05 998>
+2015-01-25 09:47:06,045 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 017>
+2015-01-25 09:47:06,045 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 021>
+2015-01-25 09:47:06,046 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 024>
+2015-01-25 09:47:06,346 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 341>
+2015-01-25 09:47:06,447 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 369>
+2015-01-25 09:47:06,447 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 370>
+2015-01-25 09:47:06,448 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 370>
+2015-01-25 09:47:06,449 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 370>
+2015-01-25 09:47:06,451 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 442>
+2015-01-25 09:47:06,551 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 471>
+2015-01-25 09:47:06,551 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 480>
+2015-01-25 09:47:06,552 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 499>
+2015-01-25 09:47:06,552 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 502>
+2015-01-25 09:47:06,553 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 542>
+2015-01-25 09:47:06,654 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 581>
+2015-01-25 09:47:06,654 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 601>
+2015-01-25 09:47:06,655 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 603>
+2015-01-25 09:47:06,655 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 603>
+2015-01-25 09:47:06,656 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 642>
+2015-01-25 09:47:06,756 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 682>
+2015-01-25 09:47:06,757 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 701>
+2015-01-25 09:47:06,760 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 703>
+2015-01-25 09:47:06,761 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 704>
+2015-01-25 09:47:06,763 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 743>
+2015-01-25 09:47:06,864 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 782>
+2015-01-25 09:47:06,865 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 803>
+2015-01-25 09:47:06,866 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 804>
+2015-01-25 09:47:06,868 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 805>
+2015-01-25 09:47:06,869 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 845>
+2015-01-25 09:47:06,971 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 883>
+2015-01-25 09:47:06,972 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 903>
+2015-01-25 09:47:06,973 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 905>
+2015-01-25 09:47:06,975 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 906>
+2015-01-25 09:47:06,976 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 946>
+2015-01-25 09:47:07,080 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:06 984>
+2015-01-25 09:47:07,080 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 005>
+2015-01-25 09:47:07,081 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 016>
+2015-01-25 09:47:07,182 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 086>
+2015-01-25 09:47:07,183 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 106>
+2015-01-25 09:47:07,184 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 117>
+2015-01-25 09:47:07,285 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 186>
+2015-01-25 09:47:07,286 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 208>
+2015-01-25 09:47:07,288 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 218>
+2015-01-25 09:47:07,292 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 288>
+2015-01-25 09:47:07,394 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 309>
+2015-01-25 09:47:07,395 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 320>
+2015-01-25 09:47:07,396 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 391>
+2015-01-25 09:47:07,497 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 410>
+2015-01-25 09:47:07,498 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 09:47:07 422>
+2015-01-25 09:47:14,504 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <<AutomateApplication>b__0><Service stopped successfully><25/01/2015 09:47:14 469>
+2015-01-25 09:47:14,706 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 678>
+2015-01-25 09:47:14,707 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 678>
+2015-01-25 09:47:14,709 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 678>
+2015-01-25 09:47:14,711 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 678>
+2015-01-25 09:47:14,712 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 679>
+2015-01-25 09:47:14,715 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 679>
+2015-01-25 09:47:14,716 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 679>
+2015-01-25 09:47:14,718 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 679>
+2015-01-25 09:47:14,719 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 679>
+2015-01-25 09:47:14,721 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 679>
+2015-01-25 09:47:14,724 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 689>
+2015-01-25 09:47:14,725 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 689>
+2015-01-25 09:47:14,727 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 690>
+2015-01-25 09:47:14,728 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 690>
+2015-01-25 09:47:14,729 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 690>
+2015-01-25 09:47:14,732 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 690>
+2015-01-25 09:47:14,735 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 690>
+2015-01-25 09:47:14,736 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 691>
+2015-01-25 09:47:14,738 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 691>
+2015-01-25 09:47:14,739 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 691>
+2015-01-25 09:47:14,740 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 700>
+2015-01-25 09:47:14,753 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 700>
+2015-01-25 09:47:14,754 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 700>
+2015-01-25 09:47:14,755 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 700>
+2015-01-25 09:47:14,756 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 701>
+2015-01-25 09:47:14,757 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 701>
+2015-01-25 09:47:14,757 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 701>
+2015-01-25 09:47:14,758 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 701>
+2015-01-25 09:47:14,759 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 701>
+2015-01-25 09:47:14,760 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 701>
+2015-01-25 09:47:14,761 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 710>
+2015-01-25 09:47:14,762 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 710>
+2015-01-25 09:47:14,762 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 710>
+2015-01-25 09:47:14,764 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 711>
+2015-01-25 09:47:14,765 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 711>
+2015-01-25 09:47:14,766 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 711>
+2015-01-25 09:47:14,767 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 711>
+2015-01-25 09:47:14,768 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 711>
+2015-01-25 09:47:14,769 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 712>
+2015-01-25 09:47:14,769 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 712>
+2015-01-25 09:47:14,770 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 720>
+2015-01-25 09:47:14,771 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 720>
+2015-01-25 09:47:14,772 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 721>
+2015-01-25 09:47:14,773 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 721>
+2015-01-25 09:47:14,773 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 721>
+2015-01-25 09:47:14,774 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 722>
+2015-01-25 09:47:14,775 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 722>
+2015-01-25 09:47:14,776 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 722>
+2015-01-25 09:47:14,777 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 722>
+2015-01-25 09:47:14,777 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 722>
+2015-01-25 09:47:14,778 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 730>
+2015-01-25 09:47:14,779 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 731>
+2015-01-25 09:47:14,779 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 731>
+2015-01-25 09:47:14,780 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 731>
+2015-01-25 09:47:14,781 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 732>
+2015-01-25 09:47:14,781 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 732>
+2015-01-25 09:47:14,783 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 732>
+2015-01-25 09:47:14,784 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 732>
+2015-01-25 09:47:14,785 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 734>
+2015-01-25 09:47:14,786 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 734>
+2015-01-25 09:47:14,787 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 741>
+2015-01-25 09:47:14,787 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 741>
+2015-01-25 09:47:14,788 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 741>
+2015-01-25 09:47:14,789 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 752>
+2015-01-25 09:47:14,790 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 752>
+2015-01-25 09:47:14,790 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 753>
+2015-01-25 09:47:14,792 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 753>
+2015-01-25 09:47:14,793 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 753>
+2015-01-25 09:47:14,794 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 753>
+2015-01-25 09:47:14,794 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 753>
+2015-01-25 09:47:14,795 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 753>
+2015-01-25 09:47:14,796 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 754>
+2015-01-25 09:47:14,797 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 762>
+2015-01-25 09:47:14,797 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 762>
+2015-01-25 09:47:14,799 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 763>
+2015-01-25 09:47:14,799 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 763>
+2015-01-25 09:47:14,800 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 763>
+2015-01-25 09:47:14,801 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 763>
+2015-01-25 09:47:14,801 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 772>
+2015-01-25 09:47:14,802 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 772>
+2015-01-25 09:47:14,803 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 773>
+2015-01-25 09:47:14,804 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 773>
+2015-01-25 09:47:14,804 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 773>
+2015-01-25 09:47:14,805 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 773>
+2015-01-25 09:47:14,806 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 782>
+2015-01-25 09:47:14,807 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 782>
+2015-01-25 09:47:14,807 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 783>
+2015-01-25 09:47:14,808 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 783>
+2015-01-25 09:47:14,809 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 783>
+2015-01-25 09:47:14,809 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 783>
+2015-01-25 09:47:14,810 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 792>
+2015-01-25 09:47:14,810 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 792>
+2015-01-25 09:47:14,810 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 793>
+2015-01-25 09:47:14,811 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 793>
+2015-01-25 09:47:14,811 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 793>
+2015-01-25 09:47:14,811 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 793>
+2015-01-25 09:47:14,812 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 802>
+2015-01-25 09:47:14,812 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 802>
+2015-01-25 09:47:14,812 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 09:47:14 803>
+2015-01-25 09:47:14,813 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 09:47:14 803>
+2015-01-25 09:47:14,814 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection><25/01/2015 09:47:14 813>
+2015-01-25 09:47:14,914 [Thread : 118508] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection succeeed><25/01/2015 09:47:14 828>
+2015-01-25 13:53:48,610 [Thread : 86716] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><25/01/2015 13:53:48 322>
+2015-01-25 13:53:49,658 [Thread : 86716] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><25/01/2015 13:53:48 370>
+2015-01-25 13:53:50,062 [Thread : 86716] [Line : 0] ERROR : ITMDW-Log - <StartupConnectionWithoutFailover><System.TypeInitializationException: The type initializer for 'Oracle.DataAccess.Client.OracleConnection' threw an exception. ---> Oracle.DataAccess.Client.OracleException: The provider is not compatible with the version of Oracle client
+   at Oracle.DataAccess.Client.OracleInit.Initialize()
+   at Oracle.DataAccess.Client.OracleConnection..cctor()
+   --- End of inner exception stack trace ---
+   at Oracle.DataAccess.Client.OracleConnection..ctor(String connectionString)
+   at Asiacell.ITADLibraries.LibDatabase.DBConnection.StartupConnectionWithoutFailover()><25/01/2015 13:53:49 985>
+2015-01-25 13:53:50,063 [Thread : 86716] [Line : 0] ERROR : ITMDW-Log - <ApplicationInitialization><Bulk Execution service could not start due problem of database connectivity><25/01/2015 13:53:49 985>
+2015-01-25 13:54:05,388 [Thread : 126748] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><25/01/2015 13:54:05 220>
+2015-01-25 13:54:05,444 [Thread : 126748] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><25/01/2015 13:54:05 224>
+2015-01-25 14:09:29,653 [Thread : 124744] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><25/01/2015 14:09:29 492>
+2015-01-25 14:09:29,761 [Thread : 124744] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><25/01/2015 14:09:29 495>
+2015-01-25 14:09:40,357 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><25/01/2015 14:09:40 111>
+2015-01-25 14:09:40,424 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><25/01/2015 14:09:40 129>
+2015-01-25 14:09:42,128 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Connect to database is successful...><25/01/2015 14:09:42 076>
+2015-01-25 14:09:42,129 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Name : agwprod><25/01/2015 14:09:42 076>
+2015-01-25 14:09:42,129 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Version : 11.2.0.4.0><25/01/2015 14:09:42 076>
+2015-01-25 14:09:42,130 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Datababase UserID : ITMDW><25/01/2015 14:09:42 076>
+2015-01-25 14:09:42,336 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:42 306>
+2015-01-25 14:09:42,336 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:42 306>
+2015-01-25 14:09:42,337 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:42 306>
+2015-01-25 14:09:42,337 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:42 306>
+2015-01-25 14:09:42,337 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:42 308>
+2015-01-25 14:09:43,435 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 418>
+2015-01-25 14:09:43,435 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 420>
+2015-01-25 14:09:43,436 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 424>
+2015-01-25 14:09:43,437 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 424>
+2015-01-25 14:09:43,438 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 426>
+2015-01-25 14:09:43,542 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 515>
+2015-01-25 14:09:43,543 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 519>
+2015-01-25 14:09:43,544 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 521>
+2015-01-25 14:09:43,545 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 529>
+2015-01-25 14:09:43,546 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 532>
+2015-01-25 14:09:43,649 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 617>
+2015-01-25 14:09:43,649 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 621>
+2015-01-25 14:09:43,650 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 623>
+2015-01-25 14:09:43,650 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 631>
+2015-01-25 14:09:43,651 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 634>
+2015-01-25 14:09:43,752 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 719>
+2015-01-25 14:09:43,752 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 723>
+2015-01-25 14:09:43,753 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 725>
+2015-01-25 14:09:43,753 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 733>
+2015-01-25 14:09:43,754 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 736>
+2015-01-25 14:09:43,855 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 821>
+2015-01-25 14:09:43,855 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 825>
+2015-01-25 14:09:43,856 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 828>
+2015-01-25 14:09:43,856 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 835>
+2015-01-25 14:09:43,857 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 838>
+2015-01-25 14:09:43,958 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 923>
+2015-01-25 14:09:43,958 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 927>
+2015-01-25 14:09:43,959 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 930>
+2015-01-25 14:09:43,959 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 937>
+2015-01-25 14:09:43,961 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:43 940>
+2015-01-25 14:09:44,062 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 025>
+2015-01-25 14:09:44,062 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 035>
+2015-01-25 14:09:44,064 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 037>
+2015-01-25 14:09:44,164 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 134>
+2015-01-25 14:09:44,164 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 138>
+2015-01-25 14:09:44,165 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 139>
+2015-01-25 14:09:44,266 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 236>
+2015-01-25 14:09:44,266 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 240>
+2015-01-25 14:09:44,267 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 241>
+2015-01-25 14:09:44,368 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 337>
+2015-01-25 14:09:44,368 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 348>
+2015-01-25 14:09:44,369 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 351>
+2015-01-25 14:09:44,470 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 437>
+2015-01-25 14:09:44,470 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 451>
+2015-01-25 14:09:44,471 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:09:44 453>
+2015-01-25 14:10:29,763 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <5c392d588989459fadb83be1de189280><Update><Updated status = running for rowid= AABVtCAAAAAAAR/AAA><25/01/2015 14:10:29 663>
+2015-01-25 14:10:29,764 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <5c392d588989459fadb83be1de189280><RequestExecute><Start the request for execute of command:  ><25/01/2015 14:10:29 664>
+2015-01-25 14:10:30,973 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <beb0f8af5e11405ca570219bebf1b296><ExecuteLogic><Respond from server with RefID: beb0f8af5e11405ca570219bebf1b296, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20141026T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "37572": 37572
+    }
+  ],
+  "creditClearanceDate": "20151107T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "firstIVRCallFlag": true,
+  "languageIDCurrent": 1,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "20150301T00:00:00+0300",
+      "offerID": 405,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20141229T13:01:42+0300"
+    },
+    {
+      "expiryDateTime": "20150126T00:00:00+0300",
+      "offerID": 2014,
+      "offerState": 1,
+      "offerType": 2,
+      "productID": 86,
+      "startDateTime": "00000101T12:00:00+0000"
+    }
+  ],
+  "originTransactionID": "20150125141030273742",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2015-01-25",
+      "lastEvaluationDate": "20150125T12:00:00+0000",
+      "pamClassID": 99,
+      "pamServiceID": 99,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    }
+  ],
+  "responseCode": 0,
+  "serviceClassCurrent": 2,
+  "serviceFeeExpiryDate": "20151008T12:00:00+0000",
+  "serviceFeePeriod": 256,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": true,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20161101T12:00:00+0000",
+  "serviceRemovalPeriod": 390,
+  "supervisionExpiryDate": "20150829T12:00:00+0000",
+  "supervisionPeriod": 216,
+  "ussdEndOfCallNotificationID": 1
+}><25/01/2015 14:10:30 937>
+2015-01-25 14:10:31,095 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <5c392d588989459fadb83be1de189280><Update><Updated status = true for rowid= AABVtCAAAAAAAR/AAA><25/01/2015 14:10:31 060>
+2015-01-25 14:10:31,504 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <5c392d588989459fadb83be1de189280><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: beb0f8af5e11405ca570219bebf1b296><25/01/2015 14:10:31 498>
+2015-01-25 14:10:31,504 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:10:31 498>
+2015-01-25 14:10:54,801 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <3e840c830454470eb1d9e6b871d59250><Update><Updated status = running for rowid= AABVtCAAAAAAAR/AAB><25/01/2015 14:10:54 795>
+2015-01-25 14:10:54,801 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <3e840c830454470eb1d9e6b871d59250><RequestExecute><Start the request for execute of command:  ><25/01/2015 14:10:54 795>
+2015-01-25 14:10:55,202 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <a201859131d44ae7a7d6dbd7917bcbd7><ExecuteLogic><Respond from server with RefID: a201859131d44ae7a7d6dbd7917bcbd7, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20141026T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "37572": 37572
+    }
+  ],
+  "creditClearanceDate": "20151107T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "firstIVRCallFlag": true,
+  "languageIDCurrent": 1,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "20150301T00:00:00+0300",
+      "offerID": 405,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20141229T13:01:42+0300"
+    },
+    {
+      "expiryDateTime": "20150126T00:00:00+0300",
+      "offerID": 2014,
+      "offerState": 1,
+      "offerType": 2,
+      "productID": 86,
+      "startDateTime": "00000101T12:00:00+0000"
+    }
+  ],
+  "originTransactionID": "20150125141054000387",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2015-01-25",
+      "lastEvaluationDate": "20150125T12:00:00+0000",
+      "pamClassID": 99,
+      "pamServiceID": 99,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    }
+  ],
+  "responseCode": 0,
+  "serviceClassCurrent": 2,
+  "serviceFeeExpiryDate": "20151008T12:00:00+0000",
+  "serviceFeePeriod": 256,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": true,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20161101T12:00:00+0000",
+  "serviceRemovalPeriod": 390,
+  "supervisionExpiryDate": "20150829T12:00:00+0000",
+  "supervisionPeriod": 216,
+  "ussdEndOfCallNotificationID": 1
+}><25/01/2015 14:10:55 104>
+2015-01-25 14:10:55,227 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <3e840c830454470eb1d9e6b871d59250><Update><Updated status = true for rowid= AABVtCAAAAAAAR/AAB><25/01/2015 14:10:55 221>
+2015-01-25 14:10:55,428 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <3e840c830454470eb1d9e6b871d59250><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: a201859131d44ae7a7d6dbd7917bcbd7><25/01/2015 14:10:55 408>
+2015-01-25 14:10:55,429 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><25/01/2015 14:10:55 408>
+2015-01-25 14:11:19,790 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <<AutomateApplication>b__0><Service stopped successfully><25/01/2015 14:11:19 691>
+2015-01-25 14:11:19,917 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 845>
+2015-01-25 14:11:19,924 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 845>
+2015-01-25 14:11:19,925 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 846>
+2015-01-25 14:11:19,925 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 846>
+2015-01-25 14:11:19,925 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 847>
+2015-01-25 14:11:19,926 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 872>
+2015-01-25 14:11:19,926 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 872>
+2015-01-25 14:11:19,926 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 873>
+2015-01-25 14:11:19,927 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 876>
+2015-01-25 14:11:19,927 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 878>
+2015-01-25 14:11:19,927 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 880>
+2015-01-25 14:11:19,927 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 880>
+2015-01-25 14:11:19,928 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 882>
+2015-01-25 14:11:19,928 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 899>
+2015-01-25 14:11:19,928 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 913>
+2015-01-25 14:11:19,928 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 921>
+2015-01-25 14:11:19,929 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 921>
+2015-01-25 14:11:19,929 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 921>
+2015-01-25 14:11:19,929 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 923>
+2015-01-25 14:11:19,929 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 925>
+2015-01-25 14:11:20,040 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 931>
+2015-01-25 14:11:20,041 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 931>
+2015-01-25 14:11:20,041 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 939>
+2015-01-25 14:11:20,042 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 940>
+2015-01-25 14:11:20,042 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 940>
+2015-01-25 14:11:20,042 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 940>
+2015-01-25 14:11:20,042 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 940>
+2015-01-25 14:11:20,043 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 941>
+2015-01-25 14:11:20,043 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 949>
+2015-01-25 14:11:20,043 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 949>
+2015-01-25 14:11:20,044 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 950>
+2015-01-25 14:11:20,044 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 950>
+2015-01-25 14:11:20,044 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 951>
+2015-01-25 14:11:20,044 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 951>
+2015-01-25 14:11:20,044 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 951>
+2015-01-25 14:11:20,045 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 952>
+2015-01-25 14:11:20,045 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 959>
+2015-01-25 14:11:20,045 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 967>
+2015-01-25 14:11:20,045 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 969>
+2015-01-25 14:11:20,045 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 969>
+2015-01-25 14:11:20,045 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 970>
+2015-01-25 14:11:20,046 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 970>
+2015-01-25 14:11:20,046 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 971>
+2015-01-25 14:11:20,046 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 977>
+2015-01-25 14:11:20,046 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 979>
+2015-01-25 14:11:20,046 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 981>
+2015-01-25 14:11:20,047 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 982>
+2015-01-25 14:11:20,047 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 990>
+2015-01-25 14:11:20,047 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 990>
+2015-01-25 14:11:20,047 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 990>
+2015-01-25 14:11:20,047 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 990>
+2015-01-25 14:11:20,047 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 991>
+2015-01-25 14:11:20,048 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:19 995>
+2015-01-25 14:11:20,048 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:19 998>
+2015-01-25 14:11:20,048 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,048 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,048 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,048 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,049 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,049 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,049 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,049 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 000>
+2015-01-25 14:11:20,049 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 002>
+2015-01-25 14:11:20,049 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 003>
+2015-01-25 14:11:20,050 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 008>
+2015-01-25 14:11:20,050 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 009>
+2015-01-25 14:11:20,052 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,053 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,053 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,053 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,053 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,054 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,054 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,054 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 010>
+2015-01-25 14:11:20,054 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 013>
+2015-01-25 14:11:20,055 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 014>
+2015-01-25 14:11:20,055 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 019>
+2015-01-25 14:11:20,055 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,055 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,056 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,056 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,056 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,056 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,057 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 020>
+2015-01-25 14:11:20,057 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 024>
+2015-01-25 14:11:20,057 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 024>
+2015-01-25 14:11:20,057 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 030>
+2015-01-25 14:11:20,057 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 030>
+2015-01-25 14:11:20,058 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 030>
+2015-01-25 14:11:20,058 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 030>
+2015-01-25 14:11:20,058 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 034>
+2015-01-25 14:11:20,058 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 034>
+2015-01-25 14:11:20,059 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 040>
+2015-01-25 14:11:20,059 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 040>
+2015-01-25 14:11:20,060 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 040>
+2015-01-25 14:11:20,060 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 042>
+2015-01-25 14:11:20,060 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 052>
+2015-01-25 14:11:20,061 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 052>
+2015-01-25 14:11:20,161 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><25/01/2015 14:11:20 062>
+2015-01-25 14:11:20,162 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><25/01/2015 14:11:20 062>
+2015-01-25 14:11:20,162 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection><25/01/2015 14:11:20 072>
+2015-01-25 14:11:20,163 [Thread : 128116] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection succeeed><25/01/2015 14:11:20 094>

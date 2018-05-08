@@ -1,0 +1,3549 @@
+2018-04-13 19:17:56,044 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><13/04/2018 19:17:55 785>
+2018-04-13 19:17:56,082 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><13/04/2018 19:17:55 786>
+2018-04-13 19:18:02,046 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Connect to database is successful...><13/04/2018 19:18:02 007>
+2018-04-13 19:18:02,046 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Name : agwdb><13/04/2018 19:18:02 008>
+2018-04-13 19:18:02,046 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Version : 11.2.0.4.0><13/04/2018 19:18:02 008>
+2018-04-13 19:18:02,047 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Datababase UserID : ITMDW_TST><13/04/2018 19:18:02 008>
+2018-04-13 19:18:02,151 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 136>
+2018-04-13 19:18:02,151 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 136>
+2018-04-13 19:18:02,151 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 136>
+2018-04-13 19:18:02,252 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 151>
+2018-04-13 19:18:02,867 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 816>
+2018-04-13 19:18:02,867 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 819>
+2018-04-13 19:18:02,867 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 822>
+2018-04-13 19:18:02,868 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 825>
+2018-04-13 19:18:02,969 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 938>
+2018-04-13 19:18:02,969 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 946>
+2018-04-13 19:18:02,970 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 952>
+2018-04-13 19:18:02,971 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:02 953>
+2018-04-13 19:18:03,071 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 049>
+2018-04-13 19:18:03,071 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 058>
+2018-04-13 19:18:03,072 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 066>
+2018-04-13 19:18:03,073 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 070>
+2018-04-13 19:18:03,183 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 151>
+2018-04-13 19:18:03,183 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 151>
+2018-04-13 19:18:03,183 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 167>
+2018-04-13 19:18:03,183 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 167>
+2018-04-13 19:18:03,283 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 261>
+2018-04-13 19:18:03,283 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 265>
+2018-04-13 19:18:03,284 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 279>
+2018-04-13 19:18:03,284 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 282>
+2018-04-13 19:18:03,395 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 367>
+2018-04-13 19:18:03,395 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 372>
+2018-04-13 19:18:03,395 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 380>
+2018-04-13 19:18:03,505 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 395>
+2018-04-13 19:18:03,510 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 506>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 513>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 517>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 520>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 619>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 619>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 635>
+2018-04-13 19:18:03,635 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 635>
+2018-04-13 19:18:03,737 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 727>
+2018-04-13 19:18:03,738 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 732>
+2018-04-13 19:18:03,739 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 739>
+2018-04-13 19:18:03,868 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 744>
+2018-04-13 19:18:03,868 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 834>
+2018-04-13 19:18:03,869 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 840>
+2018-04-13 19:18:03,870 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 869>
+2018-04-13 19:18:03,871 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 869>
+2018-04-13 19:18:03,972 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 953>
+2018-04-13 19:18:03,973 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 959>
+2018-04-13 19:18:04,076 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 975>
+2018-04-13 19:18:04,076 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:03 978>
+2018-04-13 19:18:04,077 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:04 062>
+2018-04-13 19:18:04,182 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:18:04 166>
+2018-04-13 19:19:21,064 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <ce9196580a024c3cb3d4359a258e942b><Update><Updated status = running for rowid= AAFCeMAAAAAAfbbAAA><13/04/2018 19:19:20 986>
+2018-04-13 19:19:21,082 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <ce9196580a024c3cb3d4359a258e942b><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:19:20 989>
+2018-04-13 19:19:25,757 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <d64a1f405afe4fc8892a271e944d26c0><ExecuteLogic><Respond from server with RefID: d64a1f405afe4fc8892a271e944d26c0, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413191924432530",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:19:25 703>
+2018-04-13 19:19:26,078 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <ce9196580a024c3cb3d4359a258e942b><Update><Updated status = true for rowid= AAFCeMAAAAAAfbbAAA><13/04/2018 19:19:25 998>
+2018-04-13 19:19:27,753 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <ce9196580a024c3cb3d4359a258e942b><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: d64a1f405afe4fc8892a271e944d26c0, ErrorCode: 0, Description: Succeed><13/04/2018 19:19:27 668>
+2018-04-13 19:19:27,755 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:19:27 668>
+2018-04-13 19:20:04,984 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><System.AggregateException: One or more errors occurred. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at BulkRequestConsole.Classes.CollectionManager.NotifyCompletion(String message) in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 411
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 385
+---> (Inner Exception #0) System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+><13/04/2018 19:20:04 951>
+2018-04-13 19:20:04,988 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><Error could not update bulk reference mapping id cf49d19298be4eb795abcbffef4b4713 to executed status><13/04/2018 19:20:04 952>
+2018-04-13 19:20:04,988 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><System.Exception: Error could reset bulk reference id mapping
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 393
+   at BulkRequestConsole.Classes.CollectionManager.GetNonRequested() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 211><13/04/2018 19:20:04 982>
+2018-04-13 19:20:04,993 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><Could not prepare for bulk request queue collection><13/04/2018 19:20:04 982>
+2018-04-13 19:20:49,068 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><System.AggregateException: One or more errors occurred. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at BulkRequestConsole.Classes.CollectionManager.NotifyCompletion(String message) in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 411
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 385
+---> (Inner Exception #0) System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+><13/04/2018 19:20:49 038>
+2018-04-13 19:21:45,167 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><Error could not update bulk reference mapping id cf49d19298be4eb795abcbffef4b4713 to executed status><13/04/2018 19:20:49 038>
+2018-04-13 19:21:45,167 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><System.Exception: Error could reset bulk reference id mapping
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 393
+   at BulkRequestConsole.Classes.CollectionManager.GetNonRequested() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 211><13/04/2018 19:20:49 066>
+2018-04-13 19:21:45,167 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><Could not prepare for bulk request queue collection><13/04/2018 19:20:49 066>
+2018-04-13 19:21:45,167 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><System.AggregateException: One or more errors occurred. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at BulkRequestConsole.Classes.CollectionManager.NotifyCompletion(String message) in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 411
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 385
+---> (Inner Exception #0) System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+><13/04/2018 19:21:32 896>
+2018-04-13 19:21:45,183 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><Error could not update bulk reference mapping id cf49d19298be4eb795abcbffef4b4713 to executed status><13/04/2018 19:21:32 896>
+2018-04-13 19:21:45,183 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><System.Exception: Error could reset bulk reference id mapping
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 393
+   at BulkRequestConsole.Classes.CollectionManager.GetNonRequested() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 211><13/04/2018 19:21:32 912>
+2018-04-13 19:21:45,183 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><Could not prepare for bulk request queue collection><13/04/2018 19:21:32 912>
+2018-04-13 19:22:17,002 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><System.AggregateException: One or more errors occurred. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at BulkRequestConsole.Classes.CollectionManager.NotifyCompletion(String message) in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 411
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 385
+---> (Inner Exception #0) System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.164.15:81
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at Microsoft.AspNet.SignalR.Client.Http.HttpHelper.<>c__DisplayClass2.<GetHttpResponseAsync>b__0(IAsyncResult ar)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+><13/04/2018 19:22:16 978>
+2018-04-13 19:22:17,007 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <RequestBulkRequestQueue><Error could not update bulk reference mapping id cf49d19298be4eb795abcbffef4b4713 to executed status><13/04/2018 19:22:16 978>
+2018-04-13 19:22:17,007 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><System.Exception: Error could reset bulk reference id mapping
+   at BulkRequestConsole.Classes.CollectionManager.RequestBulkRequestQueue() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 393
+   at BulkRequestConsole.Classes.CollectionManager.GetNonRequested() in d:\projects\application_design\BulkRequests\BulkRequests\BulkRequestConsole\Classes\CollectionManager.cs:line 211><13/04/2018 19:22:17 002>
+2018-04-13 19:22:17,008 [Thread : 165180] [Line : 0] ERROR : ITMDW-Log - <GetNonRequested><Could not prepare for bulk request queue collection><13/04/2018 19:22:17 002>
+2018-04-13 19:22:18,046 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <<AutomateApplication>b__0><Service stopped successfully><13/04/2018 19:22:18 006>
+2018-04-13 19:22:18,152 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 136>
+2018-04-13 19:22:18,152 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 136>
+2018-04-13 19:22:18,152 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 136>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 136>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 136>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 136>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 152>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 152>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 152>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 152>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 168>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 168>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 168>
+2018-04-13 19:22:18,168 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 168>
+2018-04-13 19:22:18,269 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,269 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,271 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,272 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,273 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,274 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,275 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,276 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,277 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,277 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 183>
+2018-04-13 19:22:18,278 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,278 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,278 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,282 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,283 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,283 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,284 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,287 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,288 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,288 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 199>
+2018-04-13 19:22:18,288 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 215>
+2018-04-13 19:22:18,289 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 215>
+2018-04-13 19:22:18,289 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 215>
+2018-04-13 19:22:18,289 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 219>
+2018-04-13 19:22:18,289 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 223>
+2018-04-13 19:22:18,290 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 223>
+2018-04-13 19:22:18,292 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 223>
+2018-04-13 19:22:18,293 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 223>
+2018-04-13 19:22:18,294 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 223>
+2018-04-13 19:22:18,294 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 226>
+2018-04-13 19:22:18,294 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 226>
+2018-04-13 19:22:18,295 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 230>
+2018-04-13 19:22:18,295 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 230>
+2018-04-13 19:22:18,295 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 232>
+2018-04-13 19:22:18,295 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 235>
+2018-04-13 19:22:18,296 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 235>
+2018-04-13 19:22:18,297 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 235>
+2018-04-13 19:22:18,297 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 238>
+2018-04-13 19:22:18,299 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 239>
+2018-04-13 19:22:18,300 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 239>
+2018-04-13 19:22:18,304 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 243>
+2018-04-13 19:22:18,305 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 243>
+2018-04-13 19:22:18,306 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 245>
+2018-04-13 19:22:18,306 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 245>
+2018-04-13 19:22:18,306 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 247>
+2018-04-13 19:22:18,306 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 247>
+2018-04-13 19:22:18,307 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 250>
+2018-04-13 19:22:18,308 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 250>
+2018-04-13 19:22:18,309 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 250>
+2018-04-13 19:22:18,309 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 252>
+2018-04-13 19:22:18,309 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 254>
+2018-04-13 19:22:18,309 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 254>
+2018-04-13 19:22:18,310 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 256>
+2018-04-13 19:22:18,311 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 256>
+2018-04-13 19:22:18,312 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 259>
+2018-04-13 19:22:18,314 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 259>
+2018-04-13 19:22:18,314 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 261>
+2018-04-13 19:22:18,315 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 261>
+2018-04-13 19:22:18,315 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 263>
+2018-04-13 19:22:18,315 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 263>
+2018-04-13 19:22:18,316 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 267>
+2018-04-13 19:22:18,316 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 267>
+2018-04-13 19:22:18,316 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 270>
+2018-04-13 19:22:18,316 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 270>
+2018-04-13 19:22:18,317 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 272>
+2018-04-13 19:22:18,317 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 273>
+2018-04-13 19:22:18,317 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 274>
+2018-04-13 19:22:18,317 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 275>
+2018-04-13 19:22:18,318 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 281>
+2018-04-13 19:22:18,318 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 281>
+2018-04-13 19:22:18,319 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 284>
+2018-04-13 19:22:18,319 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 284>
+2018-04-13 19:22:18,319 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 286>
+2018-04-13 19:22:18,319 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 287>
+2018-04-13 19:22:18,320 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 292>
+2018-04-13 19:22:18,320 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 292>
+2018-04-13 19:22:18,321 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 296>
+2018-04-13 19:22:18,321 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 296>
+2018-04-13 19:22:18,321 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 299>
+2018-04-13 19:22:18,322 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 299>
+2018-04-13 19:22:18,322 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 303>
+2018-04-13 19:22:18,322 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 304>
+2018-04-13 19:22:18,322 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 307>
+2018-04-13 19:22:18,325 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 307>
+2018-04-13 19:22:18,326 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:22:18 310>
+2018-04-13 19:22:18,326 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:22:18 310>
+2018-04-13 19:22:18,326 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection><13/04/2018 19:22:18 321>
+2018-04-13 19:22:18,637 [Thread : 165180] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection succeeed><13/04/2018 19:22:18 573>
+2018-04-13 19:22:29,412 [Thread : 168920] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><13/04/2018 19:22:29 217>
+2018-04-13 19:22:29,478 [Thread : 168920] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><13/04/2018 19:22:29 217>
+2018-04-13 19:22:50,241 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><13/04/2018 19:22:50 150>
+2018-04-13 19:22:50,269 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><13/04/2018 19:22:50 150>
+2018-04-13 19:22:54,754 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Connect to database is successful...><13/04/2018 19:22:54 750>
+2018-04-13 19:22:54,754 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Name : agwdb><13/04/2018 19:22:54 750>
+2018-04-13 19:22:54,755 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Version : 11.2.0.4.0><13/04/2018 19:22:54 750>
+2018-04-13 19:22:54,755 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Datababase UserID : ITMDW_TST><13/04/2018 19:22:54 750>
+2018-04-13 19:22:54,958 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:54 911>
+2018-04-13 19:22:54,958 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:54 911>
+2018-04-13 19:22:54,959 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:54 911>
+2018-04-13 19:22:54,964 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:54 911>
+2018-04-13 19:22:55,604 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 575>
+2018-04-13 19:22:55,604 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 581>
+2018-04-13 19:22:55,604 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 581>
+2018-04-13 19:22:55,604 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 584>
+2018-04-13 19:22:55,713 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 682>
+2018-04-13 19:22:55,713 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 682>
+2018-04-13 19:22:55,714 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 698>
+2018-04-13 19:22:55,715 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 698>
+2018-04-13 19:22:55,817 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 794>
+2018-04-13 19:22:55,817 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 801>
+2018-04-13 19:22:55,818 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 804>
+2018-04-13 19:22:55,819 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 809>
+2018-04-13 19:22:55,927 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 896>
+2018-04-13 19:22:55,927 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 912>
+2018-04-13 19:22:55,927 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 912>
+2018-04-13 19:22:55,927 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:55 912>
+2018-04-13 19:22:56,028 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 006>
+2018-04-13 19:22:56,028 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 022>
+2018-04-13 19:22:56,029 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 025>
+2018-04-13 19:22:56,030 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 028>
+2018-04-13 19:22:56,136 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 120>
+2018-04-13 19:22:56,236 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 136>
+2018-04-13 19:22:56,236 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 136>
+2018-04-13 19:22:56,237 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 136>
+2018-04-13 19:22:56,238 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 229>
+2018-04-13 19:22:56,338 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 248>
+2018-04-13 19:22:56,338 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 253>
+2018-04-13 19:22:56,339 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 258>
+2018-04-13 19:22:56,340 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 334>
+2018-04-13 19:22:56,443 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 352>
+2018-04-13 19:22:56,443 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 359>
+2018-04-13 19:22:56,443 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 364>
+2018-04-13 19:22:56,532 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 451>
+2018-04-13 19:22:56,532 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 456>
+2018-04-13 19:22:56,533 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 463>
+2018-04-13 19:22:56,534 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 468>
+2018-04-13 19:22:56,670 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 560>
+2018-04-13 19:22:56,670 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 566>
+2018-04-13 19:22:56,685 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 572>
+2018-04-13 19:22:56,685 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 607>
+2018-04-13 19:22:56,785 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 767>
+2018-04-13 19:22:56,785 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 767>
+2018-04-13 19:22:56,786 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 767>
+2018-04-13 19:22:56,787 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 767>
+2018-04-13 19:22:56,896 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 875>
+2018-04-13 19:22:56,997 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:22:56 981>
+2018-04-13 19:24:04,815 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <8d647b9111114a41b5b2789d5000d9e4><Update><Updated status = running for rowid= AAFCeMAAAAAAfbfAAE><13/04/2018 19:24:04 762>
+2018-04-13 19:24:04,816 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <8d647b9111114a41b5b2789d5000d9e4><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:24:04 765>
+2018-04-13 19:24:06,173 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <4e14fc8591c64d559e7baa853ee2fdf3><ExecuteLogic><Respond from server with RefID: 4e14fc8591c64d559e7baa853ee2fdf3, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413192405235490",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:24:06 157>
+2018-04-13 19:24:06,885 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <8d647b9111114a41b5b2789d5000d9e4><Update><Updated status = true for rowid= AAFCeMAAAAAAfbfAAE><13/04/2018 19:24:06 798>
+2018-04-13 19:24:08,949 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <8d647b9111114a41b5b2789d5000d9e4><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: 4e14fc8591c64d559e7baa853ee2fdf3, ErrorCode: 0, Description: Succeed><13/04/2018 19:24:08 904>
+2018-04-13 19:24:08,951 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:24:08 904>
+2018-04-13 19:24:40,337 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <14a4351706554858804b869458c42cea><Update><Updated status = running for rowid= AAFCeMAAAAAAfbfAAA><13/04/2018 19:24:40 299>
+2018-04-13 19:25:54,168 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <14a4351706554858804b869458c42cea><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:24:40 299>
+2018-04-13 19:25:54,168 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <244ad2401f354cb194845c9bdda0a9c9><ExecuteLogic><Respond from server with RefID: 244ad2401f354cb194845c9bdda0a9c9, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413192440235976",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:24:41 243>
+2018-04-13 19:25:54,183 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <14a4351706554858804b869458c42cea><Update><Updated status = true for rowid= AAFCeMAAAAAAfbfAAA><13/04/2018 19:24:41 927>
+2018-04-13 19:25:54,183 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <14a4351706554858804b869458c42cea><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: 244ad2401f354cb194845c9bdda0a9c9, ErrorCode: 0, Description: Succeed><13/04/2018 19:24:44 182>
+2018-04-13 19:25:54,183 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:24:44 182>
+2018-04-13 19:26:00,684 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <<AutomateApplication>b__0><Service stopped successfully><13/04/2018 19:26:00 587>
+2018-04-13 19:26:00,787 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 723>
+2018-04-13 19:26:00,788 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 723>
+2018-04-13 19:26:00,789 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 723>
+2018-04-13 19:26:00,792 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 723>
+2018-04-13 19:26:00,795 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 724>
+2018-04-13 19:26:00,807 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 724>
+2018-04-13 19:26:00,808 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 726>
+2018-04-13 19:26:00,809 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 727>
+2018-04-13 19:26:00,809 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 730>
+2018-04-13 19:26:00,809 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 730>
+2018-04-13 19:26:00,809 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 735>
+2018-04-13 19:26:00,810 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 735>
+2018-04-13 19:26:00,810 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 735>
+2018-04-13 19:26:00,810 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 735>
+2018-04-13 19:26:00,811 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 740>
+2018-04-13 19:26:00,811 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 740>
+2018-04-13 19:26:00,811 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 741>
+2018-04-13 19:26:00,811 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 741>
+2018-04-13 19:26:00,811 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 745>
+2018-04-13 19:26:00,814 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 745>
+2018-04-13 19:26:00,815 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 747>
+2018-04-13 19:26:00,815 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 748>
+2018-04-13 19:26:00,816 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 748>
+2018-04-13 19:26:00,817 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 752>
+2018-04-13 19:26:00,824 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 752>
+2018-04-13 19:26:00,826 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 752>
+2018-04-13 19:26:00,826 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 757>
+2018-04-13 19:26:00,828 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 757>
+2018-04-13 19:26:00,829 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 757>
+2018-04-13 19:26:00,830 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 757>
+2018-04-13 19:26:00,830 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 759>
+2018-04-13 19:26:00,830 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 763>
+2018-04-13 19:26:00,830 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 763>
+2018-04-13 19:26:00,831 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 763>
+2018-04-13 19:26:00,831 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 764>
+2018-04-13 19:26:00,831 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 768>
+2018-04-13 19:26:00,831 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 768>
+2018-04-13 19:26:00,831 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 768>
+2018-04-13 19:26:00,832 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 768>
+2018-04-13 19:26:00,832 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 770>
+2018-04-13 19:26:00,832 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 774>
+2018-04-13 19:26:00,834 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 774>
+2018-04-13 19:26:00,834 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 775>
+2018-04-13 19:26:00,834 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 778>
+2018-04-13 19:26:00,834 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 779>
+2018-04-13 19:26:00,834 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 779>
+2018-04-13 19:26:00,835 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 781>
+2018-04-13 19:26:00,836 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 782>
+2018-04-13 19:26:00,836 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 783>
+2018-04-13 19:26:00,837 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 784>
+2018-04-13 19:26:00,837 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 788>
+2018-04-13 19:26:00,841 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 791>
+2018-04-13 19:26:00,842 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 793>
+2018-04-13 19:26:00,843 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 795>
+2018-04-13 19:26:00,844 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 796>
+2018-04-13 19:26:00,844 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 801>
+2018-04-13 19:26:00,844 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 801>
+2018-04-13 19:26:00,845 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 801>
+2018-04-13 19:26:00,845 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 801>
+2018-04-13 19:26:00,845 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 806>
+2018-04-13 19:26:00,845 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 812>
+2018-04-13 19:26:00,846 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 812>
+2018-04-13 19:26:00,847 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 812>
+2018-04-13 19:26:00,848 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 812>
+2018-04-13 19:26:00,848 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 814>
+2018-04-13 19:26:00,848 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 815>
+2018-04-13 19:26:00,849 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 815>
+2018-04-13 19:26:00,850 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 815>
+2018-04-13 19:26:00,852 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 817>
+2018-04-13 19:26:00,853 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 818>
+2018-04-13 19:26:00,854 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 823>
+2018-04-13 19:26:00,855 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 824>
+2018-04-13 19:26:00,855 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 826>
+2018-04-13 19:26:00,856 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 826>
+2018-04-13 19:26:00,856 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 827>
+2018-04-13 19:26:00,857 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 830>
+2018-04-13 19:26:00,859 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 835>
+2018-04-13 19:26:00,859 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 835>
+2018-04-13 19:26:00,859 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 838>
+2018-04-13 19:26:00,860 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 838>
+2018-04-13 19:26:00,860 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 842>
+2018-04-13 19:26:00,863 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 842>
+2018-04-13 19:26:00,863 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 846>
+2018-04-13 19:26:00,863 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 846>
+2018-04-13 19:26:00,864 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 849>
+2018-04-13 19:26:00,865 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 849>
+2018-04-13 19:26:00,866 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 853>
+2018-04-13 19:26:00,866 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 853>
+2018-04-13 19:26:00,866 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 857>
+2018-04-13 19:26:00,867 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 857>
+2018-04-13 19:26:00,867 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 860>
+2018-04-13 19:26:00,867 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 860>
+2018-04-13 19:26:00,867 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 864>
+2018-04-13 19:26:00,868 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 864>
+2018-04-13 19:26:00,869 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 868>
+2018-04-13 19:26:00,870 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 868>
+2018-04-13 19:26:00,970 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 871>
+2018-04-13 19:26:00,970 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 871>
+2018-04-13 19:26:00,971 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Reqeust to stop process.... please wait ><13/04/2018 19:26:00 875>
+2018-04-13 19:26:00,972 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><The task is stoped successful><13/04/2018 19:26:00 875>
+2018-04-13 19:26:00,972 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection><13/04/2018 19:26:00 896>
+2018-04-13 19:26:01,283 [Thread : 166668] [Line : 0] INFO  : ITMDW-Log - <Dispose><Dispose Database connection succeeed><13/04/2018 19:26:01 183>
+2018-04-13 19:27:55,738 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <ApplicationInitialization><Starting the Bulk Execution service><13/04/2018 19:27:55 617>
+2018-04-13 19:27:55,920 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Initializing database connection.....><13/04/2018 19:27:55 617>
+2018-04-13 19:28:00,183 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Connect to database is successful...><13/04/2018 19:28:00 105>
+2018-04-13 19:28:00,183 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Name : agwdb><13/04/2018 19:28:00 105>
+2018-04-13 19:28:00,183 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Database Version : 11.2.0.4.0><13/04/2018 19:28:00 105>
+2018-04-13 19:28:00,183 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <StartupConnectionWithoutFailover><Datababase UserID : ITMDW_TST><13/04/2018 19:28:00 105>
+2018-04-13 19:28:00,283 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:00 268>
+2018-04-13 19:28:00,283 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:00 269>
+2018-04-13 19:28:00,283 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:00 269>
+2018-04-13 19:28:00,284 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:00 277>
+2018-04-13 19:28:01,033 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 030>
+2018-04-13 19:28:01,135 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 034>
+2018-04-13 19:28:01,135 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 038>
+2018-04-13 19:28:01,135 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 043>
+2018-04-13 19:28:01,135 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 135>
+2018-04-13 19:28:01,135 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 135>
+2018-04-13 19:28:01,236 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 151>
+2018-04-13 19:28:01,236 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 167>
+2018-04-13 19:28:01,340 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 256>
+2018-04-13 19:28:01,340 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 259>
+2018-04-13 19:28:01,341 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 267>
+2018-04-13 19:28:01,342 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 271>
+2018-04-13 19:28:01,443 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 364>
+2018-04-13 19:28:01,446 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 370>
+2018-04-13 19:28:01,448 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 376>
+2018-04-13 19:28:01,450 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 381>
+2018-04-13 19:28:01,552 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 481>
+2018-04-13 19:28:01,552 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 491>
+2018-04-13 19:28:01,553 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 495>
+2018-04-13 19:28:01,553 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 500>
+2018-04-13 19:28:01,668 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 579>
+2018-04-13 19:28:01,668 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 590>
+2018-04-13 19:28:01,668 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 606>
+2018-04-13 19:28:01,668 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 606>
+2018-04-13 19:28:01,769 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 684>
+2018-04-13 19:28:01,769 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 700>
+2018-04-13 19:28:01,770 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 729>
+2018-04-13 19:28:01,771 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 733>
+2018-04-13 19:28:01,874 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 794>
+2018-04-13 19:28:01,874 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 814>
+2018-04-13 19:28:01,875 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 830>
+2018-04-13 19:28:01,876 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 839>
+2018-04-13 19:28:01,981 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 897>
+2018-04-13 19:28:01,981 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 912>
+2018-04-13 19:28:01,982 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 928>
+2018-04-13 19:28:01,983 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:01 972>
+2018-04-13 19:28:02,083 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 013>
+2018-04-13 19:28:02,083 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 030>
+2018-04-13 19:28:02,084 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 044>
+2018-04-13 19:28:02,085 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 074>
+2018-04-13 19:28:02,199 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 121>
+2018-04-13 19:28:02,199 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 137>
+2018-04-13 19:28:02,199 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 152>
+2018-04-13 19:28:02,199 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 184>
+2018-04-13 19:28:02,300 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 237>
+2018-04-13 19:28:02,412 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:02 345>
+2018-04-13 19:28:10,998 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <53af79f5728c49c29db9f9bf64822378><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAD><13/04/2018 19:28:10 935>
+2018-04-13 19:28:11,001 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <53af79f5728c49c29db9f9bf64822378><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:28:10 936>
+2018-04-13 19:28:12,456 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <ba6de8c57b594cf88a82534c5fa5544c><ExecuteLogic><Respond from server with RefID: ba6de8c57b594cf88a82534c5fa5544c, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413192811439299",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:28:12 428>
+2018-04-13 19:28:12,896 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <53af79f5728c49c29db9f9bf64822378><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAD><13/04/2018 19:28:12 878>
+2018-04-13 19:28:14,563 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <53af79f5728c49c29db9f9bf64822378><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: ba6de8c57b594cf88a82534c5fa5544c, ErrorCode: 0, Description: Succeed><13/04/2018 19:28:14 522>
+2018-04-13 19:28:14,565 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:14 522>
+2018-04-13 19:28:38,999 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <385e1df8e0204ef1910f8e18dacedc79><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:28:38 967>
+2018-04-13 19:28:39,001 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <385e1df8e0204ef1910f8e18dacedc79><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:28:38 967>
+2018-04-13 19:28:39,636 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <f0f360c5915b48c2b40b6743ead5d766><ExecuteLogic><Respond from server with RefID: f0f360c5915b48c2b40b6743ead5d766, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413192838418268",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:28:39 604>
+2018-04-13 19:28:41,104 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <385e1df8e0204ef1910f8e18dacedc79><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:28:41 024>
+2018-04-13 19:28:42,857 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <385e1df8e0204ef1910f8e18dacedc79><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: f0f360c5915b48c2b40b6743ead5d766, ErrorCode: 0, Description: Succeed><13/04/2018 19:28:42 814>
+2018-04-13 19:28:42,860 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:28:42 814>
+2018-04-13 19:29:24,217 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <db6e139f7a294920a236a4e33bd93391><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAC><13/04/2018 19:29:24 124>
+2018-04-13 19:29:24,217 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <db6e139f7a294920a236a4e33bd93391><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:29:24 124>
+2018-04-13 19:29:24,943 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <299ba1a111514c92ad4da5d427c5c000><ExecuteLogic><Respond from server with RefID: 299ba1a111514c92ad4da5d427c5c000, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413192923237860",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:29:24 927>
+2018-04-13 19:29:25,498 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <db6e139f7a294920a236a4e33bd93391><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAC><13/04/2018 19:29:25 444>
+2018-04-13 19:29:28,214 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <db6e139f7a294920a236a4e33bd93391><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: 299ba1a111514c92ad4da5d427c5c000, ErrorCode: 0, Description: Succeed><13/04/2018 19:29:28 136>
+2018-04-13 19:29:28,220 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:29:28 136>
+2018-04-13 19:30:32,953 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <c77b26420c634f3896cc9a3f36f32660><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:30:32 896>
+2018-04-13 19:30:32,955 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <c77b26420c634f3896cc9a3f36f32660><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:30:32 896>
+2018-04-13 19:30:43,723 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <6cb899b2d43d44f7bce45603ae4f7e88><ExecuteLogic><Respond from server with RefID: 6cb899b2d43d44f7bce45603ae4f7e88, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413193032419743",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:30:42 641>
+2018-04-13 19:31:43,261 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <c77b26420c634f3896cc9a3f36f32660><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:31:42 528>
+2018-04-13 19:31:46,136 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <c77b26420c634f3896cc9a3f36f32660><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: 6cb899b2d43d44f7bce45603ae4f7e88, ErrorCode: 0, Description: Succeed><13/04/2018 19:31:46 089>
+2018-04-13 19:31:46,136 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:31:46 089>
+2018-04-13 19:33:20,443 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <83db1702c4624c799c6fa746687d7e5c><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAC><13/04/2018 19:33:20 443>
+2018-04-13 19:33:20,444 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <83db1702c4624c799c6fa746687d7e5c><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:33:20 443>
+2018-04-13 19:33:21,683 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <efaa5650e0fc4cbaaf489eca350b44d4><ExecuteLogic><Respond from server with RefID: efaa5650e0fc4cbaaf489eca350b44d4, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413193320241094",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:33:21 620>
+2018-04-13 19:33:24,176 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <83db1702c4624c799c6fa746687d7e5c><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAC><13/04/2018 19:33:24 067>
+2018-04-13 19:33:26,136 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <83db1702c4624c799c6fa746687d7e5c><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: efaa5650e0fc4cbaaf489eca350b44d4, ErrorCode: 0, Description: Succeed><13/04/2018 19:33:26 057>
+2018-04-13 19:33:26,136 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:33:26 057>
+2018-04-13 19:35:47,254 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <d1b3d398538b4789b17e1cce8dff6b51><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:35:47 224>
+2018-04-13 19:35:47,254 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <d1b3d398538b4789b17e1cce8dff6b51><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:35:47 224>
+2018-04-13 19:35:50,580 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <cbf3924fa5664f5c985f727646da2516><ExecuteLogic><Respond from server with RefID: cbf3924fa5664f5c985f727646da2516, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413193547244611",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:35:50 481>
+2018-04-13 19:35:51,322 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <d1b3d398538b4789b17e1cce8dff6b51><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:35:51 241>
+2018-04-13 19:35:53,237 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <d1b3d398538b4789b17e1cce8dff6b51><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: cbf3924fa5664f5c985f727646da2516, ErrorCode: 0, Description: Succeed><13/04/2018 19:35:53 183>
+2018-04-13 19:35:53,239 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:35:53 183>
+2018-04-13 19:36:54,413 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <2fc230bc9406421d9a80fcc0a5746e79><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAC><13/04/2018 19:36:54 329>
+2018-04-13 19:36:54,413 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <2fc230bc9406421d9a80fcc0a5746e79><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:36:54 329>
+2018-04-13 19:36:55,637 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <58a7492952364f80b0c791b24d1c916b><ExecuteLogic><Respond from server with RefID: 58a7492952364f80b0c791b24d1c916b, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413193653243849",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:36:55 567>
+2018-04-13 19:37:02,359 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <2fc230bc9406421d9a80fcc0a5746e79><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAC><13/04/2018 19:37:02 259>
+2018-04-13 19:37:03,817 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <2fc230bc9406421d9a80fcc0a5746e79><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: 58a7492952364f80b0c791b24d1c916b, ErrorCode: 0, Description: Succeed><13/04/2018 19:37:03 733>
+2018-04-13 19:37:03,819 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:37:03 733>
+2018-04-13 19:41:29,368 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <f029cc6a8f50467897b0890b5894a4e8><Update><Updated status = running for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:41:29 307>
+2018-04-13 19:41:29,368 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <f029cc6a8f50467897b0890b5894a4e8><RequestExecute><Start the request for execute of command: GETACCOUNTDETAILS 9647702119995 ><13/04/2018 19:41:29 307>
+2018-04-13 19:41:30,290 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <e2a2be35a2544e65b8434b75b0b46556><ExecuteLogic><Respond from server with RefID: e2a2be35a2544e65b8434b75b0b46556, Command: GETACCOUNTDETAILS 9647702119995, Error_code: 0, Descriptin: Succeed, Descriptin: {
+  "accountFlags": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountFlagsBefore": {
+    "activationStatusFlag": true,
+    "negativeBarringStatusFlag": false,
+    "serviceFeePeriodExpiryFlag": false,
+    "serviceFeePeriodWarningActiveFlag": false,
+    "supervisionPeriodExpiryFlag": false,
+    "supervisionPeriodWarningActiveFlag": false
+  },
+  "accountGroupID": 0,
+  "accountValue1": "0",
+  "activationDate": "20170419T12:00:00+0000",
+  "availableServerCapabilities": [
+    {
+      "536908484": 536908484
+    }
+  ],
+  "creditClearanceDate": "20180810T12:00:00+0000",
+  "creditClearancePeriod": 70,
+  "currency1": "IQD",
+  "languageIDCurrent": 3,
+  "masterAccountNumber": "7702119995",
+  "masterSubscriberFlag": true,
+  "maxServiceFeePeriod": 1023,
+  "maxSupervisionPeriod": 983,
+  "negotiatedCapabilities": [
+    {
+      "0": 0
+    }
+  ],
+  "offerInformationList": [
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 19,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180318T11:29:58+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 20,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170615T14:47:00+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 80,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20170422T20:54:28+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 262,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171221T06:38:56+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 720,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180304T00:01:32+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 721,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180204T11:14:53+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 854,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180201T16:23:04+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 958,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20180314T19:14:47+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1123,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171107T12:48:36+0300"
+    },
+    {
+      "expiryDateTime": "99991231T12:00:00+0000",
+      "offerID": 1600,
+      "offerState": 0,
+      "offerType": 2,
+      "startDateTime": "20171218T13:33:10+0300"
+    }
+  ],
+  "originTransactionID": "20180413194129427810",
+  "pamInformationList": [
+    {
+      "currentPamPeriod": "2018-04-17",
+      "lastEvaluationDate": "20180318T12:00:00+0000",
+      "pamClassID": 10,
+      "pamServiceID": 10,
+      "pamServicePriority": 1,
+      "scheduleID": 18
+    },
+    {
+      "currentPamPeriod": "2018-04-13",
+      "lastEvaluationDate": "20180413T12:00:00+0000",
+      "pamClassID": 41,
+      "pamServiceID": 41,
+      "pamServicePriority": 1,
+      "scheduleID": 140
+    },
+    {
+      "currentPamPeriod": "2018-05-03",
+      "lastEvaluationDate": "20180404T12:00:00+0000",
+      "pamClassID": 65,
+      "pamServiceID": 65,
+      "pamServicePriority": 1,
+      "scheduleID": 4
+    }
+  ],
+  "refillUnbarDateTime": "20380118T12:00:00+0300",
+  "responseCode": 0,
+  "serviceClassCurrent": 3,
+  "serviceFeeExpiryDate": "20180711T12:00:00+0000",
+  "serviceFeePeriod": 89,
+  "serviceOfferings": [
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 1
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 2
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 3
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 4
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 5
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 6
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 7
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 8
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 9
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 10
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 11
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 12
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 13
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 14
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 15
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 16
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 17
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 18
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 19
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 20
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 21
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 22
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 23
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 24
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 25
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 26
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 27
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 28
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 29
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 30
+    },
+    {
+      "serviceOfferingActiveFlag": false,
+      "serviceOfferingID": 31
+    }
+  ],
+  "serviceRemovalDate": "20190711T12:00:00+0000",
+  "serviceRemovalPeriod": 365,
+  "supervisionExpiryDate": "20180601T12:00:00+0000",
+  "supervisionPeriod": 49,
+  "ussdEndOfCallNotificationID": 1
+}><13/04/2018 19:41:30 205>
+2018-04-13 19:41:30,723 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <f029cc6a8f50467897b0890b5894a4e8><Update><Updated status = true for rowid= AAFCeMAAAAAAfbdAAA><13/04/2018 19:41:30 669>
+2018-04-13 19:41:34,869 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <f029cc6a8f50467897b0890b5894a4e8><RequestExecute><Finished the request for execute on command: GETACCOUNTDETAILS 9647702119995, status: success, GW TranID: e2a2be35a2544e65b8434b75b0b46556, ErrorCode: 0, Description: Succeed><13/04/2018 19:41:34 789>
+2018-04-13 19:41:34,877 [Thread : 168628] [Line : 0] INFO  : ITMDW-Log - <<StartWork>b__0><Waiting task to execute.......><13/04/2018 19:41:34 789>

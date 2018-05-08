@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://services.websms/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="AsiacellWebSMSServiceService" targetNamespace="http://services.websms/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://services.websms/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="Receive" type="tns:Receive" />
+      <xs:element name="ReceiveResponse" type="tns:ReceiveResponse" />
+      <xs:element name="Refresh" type="tns:Refresh" />
+      <xs:element name="RefreshResponse" type="tns:RefreshResponse" />
+      <xs:element name="Send" type="tns:Send" />
+      <xs:element name="SendResponse" type="tns:SendResponse" />
+      <xs:element name="validatePush" type="tns:validatePush" />
+      <xs:element name="validatePushResponse" type="tns:validatePushResponse" />
+      <xs:element name="validatePushUrl" type="tns:validatePushUrl" />
+      <xs:element name="validatePushUrlResponse" type="tns:validatePushUrlResponse" />
+      <xs:complexType name="Receive">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:receivedReq" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="receivedReq">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="requestid" type="xs:string" />
+          <xs:element minOccurs="0" name="username" type="xs:string" />
+          <xs:element minOccurs="0" name="password" type="xs:string" />
+          <xs:element minOccurs="0" name="sender" type="xs:string" />
+          <xs:element minOccurs="0" name="receiver" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReceiveResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:receivedResp" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="receivedResp">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="transactionid" type="xs:string" />
+          <xs:element minOccurs="0" name="requestId" type="xs:string" />
+          <xs:element minOccurs="0" name="resultCode" type="xs:string" />
+          <xs:element minOccurs="0" name="resultDescription" type="xs:string" />
+          <xs:element minOccurs="0" name="sendermisisdn" type="xs:string" />
+          <xs:element minOccurs="0" name="receivermsisdn" type="xs:string" />
+          <xs:element minOccurs="0" name="vas_service" type="xs:string" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+          <xs:element minOccurs="0" name="send_on" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="status" type="xs:int" />
+          <xs:element minOccurs="0" name="lang" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="Refresh">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:refreshReq" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="refreshReq">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" type="xs:string" />
+          <xs:element minOccurs="0" name="password" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="RefreshResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:refreshResp" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="refreshResp">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="resultCode" type="xs:string" />
+          <xs:element minOccurs="0" name="resultDescription" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validatePush">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:validateReq" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validateReq">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" type="xs:string" />
+          <xs:element minOccurs="0" name="password" type="xs:string" />
+          <xs:element minOccurs="0" name="shortcode" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validatePushResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:validateResp" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validateResp">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="resultCode" type="xs:string" />
+          <xs:element minOccurs="0" name="resultDescription" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validatePushUrl">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:validatePushUrlReq" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validatePushUrlReq">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" type="xs:string" />
+          <xs:element minOccurs="0" name="password" type="xs:string" />
+          <xs:element minOccurs="0" name="url" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="validatePushUrlResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:validateResp" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="Send">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:request" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="request">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="transactionid" type="xs:string" />
+          <xs:element minOccurs="0" name="requestid" type="xs:string" />
+          <xs:element minOccurs="0" name="username" type="xs:string" />
+          <xs:element minOccurs="0" name="password" type="xs:string" />
+          <xs:element minOccurs="0" name="clientid" type="xs:string" />
+          <xs:element minOccurs="0" name="sender" type="xs:string" />
+          <xs:element minOccurs="0" name="receiver" type="xs:string" />
+          <xs:element minOccurs="0" name="language" type="xs:int" />
+          <xs:element minOccurs="0" name="messageText" type="xs:string" />
+          <xs:element minOccurs="0" name="smscid" type="xs:int" />
+          <xs:element minOccurs="0" name="vasService" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="SendResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:response" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="response">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="transactionid" type="xs:string" />
+          <xs:element minOccurs="0" name="requestId" type="xs:string" />
+          <xs:element minOccurs="0" name="clientId" type="xs:string" />
+          <xs:element minOccurs="0" name="resultCode" type="xs:string" />
+          <xs:element minOccurs="0" name="resultDescription" type="xs:string" />
+          <xs:element minOccurs="0" name="result" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="Receive">
+    <wsdl:part name="parameters" element="tns:Receive" />
+  </wsdl:message>
+  <wsdl:message name="validatePushUrl">
+    <wsdl:part name="parameters" element="tns:validatePushUrl" />
+  </wsdl:message>
+  <wsdl:message name="Send">
+    <wsdl:part name="parameters" element="tns:Send" />
+  </wsdl:message>
+  <wsdl:message name="Refresh">
+    <wsdl:part name="parameters" element="tns:Refresh" />
+  </wsdl:message>
+  <wsdl:message name="validatePush">
+    <wsdl:part name="parameters" element="tns:validatePush" />
+  </wsdl:message>
+  <wsdl:message name="validatePushResponse">
+    <wsdl:part name="parameters" element="tns:validatePushResponse" />
+  </wsdl:message>
+  <wsdl:message name="RefreshResponse">
+    <wsdl:part name="parameters" element="tns:RefreshResponse" />
+  </wsdl:message>
+  <wsdl:message name="validatePushUrlResponse">
+    <wsdl:part name="parameters" element="tns:validatePushUrlResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReceiveResponse">
+    <wsdl:part name="parameters" element="tns:ReceiveResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendResponse">
+    <wsdl:part name="parameters" element="tns:SendResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AsiacellWebSMSService">
+    <wsdl:operation name="Receive">
+      <wsdl:input name="Receive" message="tns:Receive" />
+      <wsdl:output name="ReceiveResponse" message="tns:ReceiveResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="Refresh">
+      <wsdl:input name="Refresh" message="tns:Refresh" />
+      <wsdl:output name="RefreshResponse" message="tns:RefreshResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="validatePush">
+      <wsdl:input name="validatePush" message="tns:validatePush" />
+      <wsdl:output name="validatePushResponse" message="tns:validatePushResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="validatePushUrl">
+      <wsdl:input name="validatePushUrl" message="tns:validatePushUrl" />
+      <wsdl:output name="validatePushUrlResponse" message="tns:validatePushUrlResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="Send">
+      <wsdl:input name="Send" message="tns:Send" />
+      <wsdl:output name="SendResponse" message="tns:SendResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AsiacellWebSMSServiceServiceSoapBinding" type="tns:AsiacellWebSMSService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Receive">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="Receive">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="ReceiveResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Refresh">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="Refresh">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="RefreshResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validatePush">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="validatePush">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="validatePushResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validatePushUrl">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="validatePushUrl">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="validatePushUrlResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="Send">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="SendResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AsiacellWebSMSServiceService">
+    <wsdl:port name="AsiacellWebSMSServicePort" binding="tns:AsiacellWebSMSServiceServiceSoapBinding">
+      <soap:address location="http://192.168.164.142:10000/services/asiacellWebSMS" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
