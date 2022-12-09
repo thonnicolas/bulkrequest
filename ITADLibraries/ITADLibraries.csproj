@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{898B9981-F8EF-4A0E-A3B9-BCDC2C2278D3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Asiacell.ITADLibraries</RootNamespace>
+    <AssemblyName>ITADLibraries</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="LibDatabase\Column.cs" />
+    <Compile Include="LibDatabase\DBConnection.cs" />
+    <Compile Include="LibDatabase\DBConnectionException.cs" />
+    <Compile Include="LibDatabase\DBConnectionPool.cs" />
+    <Compile Include="LibDatabase\DBManagedDriverConnection.cs" />
+    <Compile Include="LibDatabase\DBManagedDriverConnectionPool.cs" />
+    <Compile Include="LibDatabase\ORA_ERRORCODE.cs" />
+    <Compile Include="LibDatabase\SQLStatements.cs" />
+    <Compile Include="LibDatabase\DBManagedDriverColumn.cs" />
+    <Compile Include="LibDatabase\DBManagedDriverConnectionException.cs" />
+    <Compile Include="LibDatabase\OracleManagedDriverSQLStatements.cs" />
+    <Compile Include="LibLogger\DbLogger.cs" />
+    <Compile Include="LibLogger\DbLoggerTest.cs" />
+    <Compile Include="LibLogger\LoggerAttribute.cs" />
+    <Compile Include="LibLogger\LoggerDBAttribute.cs" />
+    <Compile Include="LibLogger\LoggerDBAttributeTest.cs" />
+    <Compile Include="LibLogger\LoggerEntities.cs" />
+    <Compile Include="LibLogger\LoggerFileAttribute.cs" />
+    <Compile Include="LibLogger\LoggerLevel.cs" />
+    <Compile Include="LibLogger\LoggerType.cs" />
+    <Compile Include="LibLogger\LogItems.cs" />
+    <Compile Include="LibLogger\MissingTransactionLogger.cs" />
+    <Compile Include="LibLogger\TransactionLogger.cs" />
+    <Compile Include="Utilities\WorkerPool.cs" />
+    <Compile Include="Utilities_v1\DBManagedDriverDataTransaction.cs" />
+    <Compile Include="LibLogger_v1\DBManagedDriverLogger.cs" />
+    <Compile Include="Utilities\DBDataTransaction.cs" />
+    <Compile Include="LibServerSocket\ClientSocket.cs" />
+    <Compile Include="LibServerSocket\ClientSocketHandler.cs" />
+    <Compile Include="LibServerSocket\ClientSocketManagement.cs" />
+    <Compile Include="LibServerSocket\GenerateSocketID.cs" />
+    <Compile Include="LibServerSocket\ServerSocketCommandConstant.cs" />
+    <Compile Include="LibServerSocket\ServerSocketProperty.cs" />
+    <Compile Include="LibServerSocket\SocketServer.cs" />
+    <Compile Include="LibSocketClient\AsynSocketClient.cs" />
+    <Compile Include="LibSocketClient\BindingMode.cs" />
+    <Compile Include="LibSocketClient\ClientProperties.cs" />
+    <Compile Include="LibSocketClient\ClientSocket.cs" />
+    <Compile Include="LibSocketClient\CommandProperty.cs" />
+    <Compile Include="LibSocketClient\CommandRespondProperties.cs" />
+    <Compile Include="LibSocketClient\ConstantValue.cs" />
+    <Compile Include="LibSocketClient\ITClients.cs" />
+    <Compile Include="LibSocketClient\ManageResultData.cs" />
+    <Compile Include="LibSocketClient\ResultProperties.cs" />
+    <Compile Include="LibSocketClient\ServerCommandConstant.cs" />
+    <Compile Include="LibSocketClient\SocketClient.cs" />
+    <Compile Include="LibSocketClient\SocketCommand.cs" />
+    <Compile Include="LibSocketClient\SocketErroDesc.cs" />
+    <Compile Include="LibSocketClient\StateObject.cs" />
+    <Compile Include="LibSocket\ClientData.cs" />
+    <Compile Include="LibSocket\ClientInfo.cs" />
+    <Compile Include="LibSocket\ClientUserID.cs" />
+    <Compile Include="LibSocket\CommandProperties.cs" />
+    <Compile Include="LibSocket\DataStoreCommand.cs" />
+    <Compile Include="LibSocket\LoginCommand.cs" />
+    <Compile Include="LibSocket\ManageClientCommand.cs" />
+    <Compile Include="LibSocket\Server.cs" />
+    <Compile Include="LibSocket\SocketCommandConstant.cs" />
+    <Compile Include="LibSocket\SocketCommands.cs" />
+    <Compile Include="LibSocket\SocketBufferData.cs" />
+    <Compile Include="LibSocket\SocketClientInfo.cs" />
+    <Compile Include="LibSocket\SocketElementServer.cs" />
+    <Compile Include="LibSocket\SocketErroDesc.cs" />
+    <Compile Include="LibSocket\SocketERRORCode.cs" />
+    <Compile Include="LibSocket\SocketServer.cs" />
+    <Compile Include="LibSocket\StateObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SyncSocket\clsClient.cs" />
+    <Compile Include="SyncSocket\Pooled.cs" />
+    <Compile Include="SyncSocket\PoolSocket.cs" />
+    <Compile Include="SyncSocket\SocketClient.cs" />
+    <Compile Include="SyncSocket\SocketProperties.cs" />
+    <Compile Include="SyncSocket\SocketServer.cs" />
+    <Compile Include="Utilities\DataExtensions.cs" />
+    <Compile Include="Utilities\DictionaryBlockingCollection.cs" />
+    <Compile Include="Utilities\DynamicJson.cs" />
+    <Compile Include="Utilities\ElementItems.cs" />
+    <Compile Include="Utilities\ElementProperties.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\Functions.cs" />
+    <Compile Include="Utilities\IAttributeValidator.cs" />
+    <Compile Include="Utilities\IConnectionControllerPool.cs" />
+    <Compile Include="Utilities\IFactoryCreator.cs" />
+    <Compile Include="Utilities\IntelligentFunctions.cs" />
+    <Compile Include="Utilities\ITaskExecutor.cs" />
+    <Compile Include="Utilities\JsonObject.cs" />
+    <Compile Include="Utilities\LoadErrorDesciptions.cs" />
+    <Compile Include="Utilities\Logger.cs" />
+    <Compile Include="Utilities\OutputFormat.cs" />
+    <Compile Include="Utilities\RoundRobin.cs" />
+    <Compile Include="Utilities\RoundRobinManager.cs" />
+    <Compile Include="Utilities\SubscriberTypes.cs" />
+    <Compile Include="Utilities\SystemErrorCodes.cs" />
+    <Compile Include="Utilities\TaskExecutorManager.cs" />
+    <Compile Include="Utilities\TaskExecutorManagerFile.cs" />
+    <Compile Include="Utilities\TaskPool.cs" />
+    <Compile Include="Utilities\WorkerConcurrentPool.cs" />
+    <Compile Include="Utilities\XmlRpcToJson.cs" />
+    <Compile Include="Utilities\JsonParser.cs" />
+    <Compile Include="Utilities_v1\Decryption.cs" />
+    <Compile Include="Utilities_v1\Encryption.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitattributes" />
+    <Content Include=".gitignore" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
